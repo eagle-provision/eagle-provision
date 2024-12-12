@@ -1,7 +1,5 @@
- Welcome to the Decentralized Frontier - I'm the Blockchain Developer  
-Greetings, fellow coders and crypto enthusiasts! 🪙 I'm a Blockchain Developer, but you can call me the Chain Architect. My world revolves around building decentralized applications (dApps), smart contracts, and diving deep into cryptographic protocols. 
-
-## My Blockchain Stack
+訪問していただきありがとうございます。 （fullstack, blockchain developer.）
+Greetings! 
 
 ```rust
 struct BlockchainDev {
@@ -35,3 +33,5 @@ fn main() {
 
 ```
 To the end with blockchain development~
+
+大切な人と大切な事を大切に...
