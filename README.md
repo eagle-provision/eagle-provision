@@ -1,5 +1,5 @@
-# Welcome to the Decentralized Frontier - I'm the Blockchain Developer  
-Greetings, fellow coders and crypto enthusiasts! 🪙 I'm a Blockchain Developer, but you can call me the Chain Architect. My world revolves around building decentralized applications (dApps), smart contracts, and diving deep into cryptographic protocols. If you're here for distributed systems, consensus algorithms, and some blockchain banter, you’re in the right place!
+ Welcome to the Decentralized Frontier - I'm the Blockchain Developer  
+Greetings, fellow coders and crypto enthusiasts! 🪙 I'm a Blockchain Developer, but you can call me the Chain Architect. My world revolves around building decentralized applications (dApps), smart contracts, and diving deep into cryptographic protocols. 
 
 ## My Blockchain Stack
 
@@ -34,8 +34,4 @@ fn main() {
 }
 
 ```
-- Rules of Blockchain Development
-
-・Rule: Code on the blockchain is permanent, so test twice, deploy once.
-・Rule: Never underestimate the importance of gas fees. Sometimes, the real cost is watching your entire balance disappear in fees.
-・Rule: If it can be decentralized, it will be. If it can't be decentralized, someone will try to make it anyway.
+To the end with blockchain development~
