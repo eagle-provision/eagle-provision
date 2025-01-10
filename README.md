@@ -15,7 +15,7 @@ impl BlockchainDev {
             languages: vec!["Solidity", "Rust", "Go"],
             tools: vec!["Ethereum", "Solana", "Polkadot"],
             currently_learning: "ZK-Rollups & Layer 2 Scaling",
-            fun_fact: "I once explained blockchain to my grandma using Lego blocks. She’s now a Bitcoin HODLer.",
+            fun_fact: "I once explained blockchain to my grandma using Lego blocks. She’s now a Bitcoin holder.",
         }
     }
 
