@@ -1,4 +1,4 @@
-訪問していただきありがとうございます。 （fullstack, blockchain developer.）
+Fullstack, Blockchain , AI developer.
 Greetings! 
 
 ```rust
@@ -32,6 +32,5 @@ fn main() {
 }
 
 ```
-To the end with blockchain development~
-
-大切な人と大切な事を大切に...
+I focused on full-stack development so far, but recently I've been focusing on AI and blockchain development.
+I am learning new things and challenging myself every day !!
