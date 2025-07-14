@@ -34,3 +34,4 @@ fn main() {
 ```
 I focused on full-stack development so far, but recently I've been focusing on AI and blockchain development.
 I am learning new things and challenging myself every day !!
+My favorite saying is "雨垂れ石を穿つ" !!
